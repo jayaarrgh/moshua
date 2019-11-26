@@ -3,13 +3,14 @@
 #
 A gui and script for datamoshing videos! Have fun!
 
-# Dev
+## Dev
 Use python3.6+
-`python3
+```bash
+# install ffmpeg
 python3 -m venv venv
 . venv/bin/activate
 pip install -r requirements.txt
-`
+```
 
 
 ## Original Script
@@ -20,7 +21,7 @@ from
 https://github.com/happyhorseskull/you-can-datamosh-on-linux
 
 #
-#### you-can-datamosh-on-Linux (and Apple Macintosh, see the notes at the bottom)
+## you-can-datamosh-on-Linux (and Apple Macintosh, see the notes at the bottom)
 #
 
 Hello, friends! If you have Python 3 and ffmpeg installed you can datamosh! If you don't have ffmpeg there are instructions for getting it here: http://ffmpeg.org/download.html

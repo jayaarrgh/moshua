@@ -1,0 +1,10 @@
+wenv
+venv
+build
+_BUILD
+dist
+__pycache__
+.swp
+*.spec
+*.mp4
+TODO.md

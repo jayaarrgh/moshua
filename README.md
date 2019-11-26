@@ -3,20 +3,24 @@
 #
 A gui and script for datamoshing videos! Have fun!
 
-## Dev
-Use python3.6+
-```bash
-# install ffmpeg
-python3 -m venv venv
-. venv/bin/activate
-pip install -r requirements.txt
-```
-
-
-## Original Script
 Thanks to happyhorseskull for the original script! I'm just adding a gui for fun.
 Note: I have only built the gui on linux. Mac and Windows may have issues.
 
+Requires [ffmpeg](https://ffmpeg.org/ "FFMPEG Homepage")
+
+## Dev and Script Use
+Using python3.6+, bash, and ffmpeg
+```bash
+# make sure you have ffmpeg
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+# to create the gui run make
+make
+# for the script 'do_the_mosh.py' please see original documentation below
+```
+
+## Original Script
 from
 https://github.com/happyhorseskull/you-can-datamosh-on-linux
 

@@ -8,7 +8,7 @@ pickleshare==0.7.5
 pkg-resources==0.0.0
 prompt-toolkit==2.0.9
 ptyprocess==0.6.0
-Pygments==2.4.2
+Pygments==2.7.4
 PyInstaller==3.6
 PyQt5==5.13.1
 PyQt5-sip==4.19.19
